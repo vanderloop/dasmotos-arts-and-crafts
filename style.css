@@ -1,0 +1,41 @@
+* {
+   font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+.brushes {
+    background-color: lightgreen;
+    color:darkgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+    color: darkred;
+}
+
+.paint {
+    background-color: lightblue;
+    color: darkcyan;
+}
+
+strong {
+    color:blue;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    background-image: url(pattern.webp);
+    color: khaki;
+}
+
+.hacksaw {
+    color: darkgreen;
+}
+
+.art-frames {
+    color: darkred;
+}
+
+.finnish {
+    color: darkcyan;
+}
